@@ -31,7 +31,6 @@
 #             arkhalid/trailerflix-frontend:dev-latest
 
 name: Build & Push Frontend Image
-
 on:
   push:
     branches: [dev]
